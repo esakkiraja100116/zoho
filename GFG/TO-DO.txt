@@ -1,0 +1,54 @@
+https://www.geeksforgeeks.org/c-language-2-gq/structure-union-gq/
+https://www.geeksforgeeks.org/c-language-2-gq/functions-gq/
+https://www.geeksforgeeks.org/c-language-2-gq/arrays-pointers-gq/ - https://www.geeksforgeeks.org/50-c-language-mcqs-with-answers/%22http://www.geeksforgeeks.org/function-pointer-in-c/%22
+https://www.geeksforgeeks.org/c-language-2-gq/storage-classes-gq/
+
+
+Need to follow this one
+
+1. https://www.geeksforgeeks.org/c-language-2-gq/
+
+    - INPUT AND OUTPUT
+    - OPERATORS 
+    - LOOPS AND CONTROL STRUCTURES 
+    - ARRAYS 
+    - POINTER BASIC
+    - STRINGS 
+    - FUNCTINOS 
+    - DATA-TYPES
+    - ADVANCED-POINTERS 
+
+2. https://www.geeksforgeeks.org/puzzles
+    - CAMEL AND BANANA PUZZLE 
+    - 
+3. https://www.geeksforgeeks.org/c-language-2-gq/operators-gq/
+4. https://www.programiz.com/c-programming/c-keywords-identifier
+
+Before going to write test ... please try to solve this questions
+4. https://www.geeksforgeeks.org/zoho-interview-set-3-campus/ 
+
+APITIDUDE QUESTION 
+
+1. Problems on average, probability, time & distance, alligation&mixture,ratio, 
+   HCF & LCM and few a puzzles.
+
+2. https://indiabix.com
+   
+   - PROBLEMS ON TRAINS 
+   - TIME AND DISTANCE 
+   - TIME AND WORKS 
+   - SIMPLE INTEREST 
+   - PROFIT LOSS 
+   - PERCENTAGE 
+   - CALENDER
+   - NUMBERS (unit-digit)
+   - RATIO AND PROPORTIONS
+   - AVERAGE
+   - NEED TO COVER ALL THE BASIC FORMULAS 
+
+IF WE HAVE FOUR DAYS MEANS - 3 DAYS FOR COMPLEX ALGORITHEMS AND 1 DAYS FOR ALL THE BASIC 
+OF C FROM GEEKS FOR GEEKS AND INDIA BIX 
+
+
+13:00 - 14:00 ROUND 2 QUESITON = https://www.youtube.com/watch?v=VX7kVKKiJpk
+https://practice.geeksforgeeks.org/explore?page=4&company[]=Zoho&sortBy=submissions
